@@ -1,5 +1,10 @@
 # Anime Sortirka
 
+### 📥 Download
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20APK-2ea44f?style=for-the-badge&logo=android)](
+https://github.com/Smoogi/anime-sortirka/releases/latest)
+
 An Android gallery that helps you **sort a large anime image library by character**. The AI runs on **your own Windows PC** and talks to your phone over your home Wi-Fi: no cloud, no accounts, no commercial APIs.
 
 - The phone shows and manages the images already on it (read-only by default).
