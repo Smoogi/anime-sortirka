@@ -27,7 +27,7 @@ An Android gallery that helps you **sort a large anime image library by characte
 
 ## 1. Install the app
 
-1. On your phone, download `AnimeSortirka-<version>-arm64-v8a.apk` from the [latest release](https://github.com/Smoogi/anime-sortirka/releases/latest). If unsure, `universal` works everywhere but is larger.
+1. On your phone, download `AnimeSortirka-<version>-arm64-v8a.apk` from the [latest release](https://github.com/Smoogi/anime-sortirka/releases/latest). It is built for 64-bit ARM phones, which covers practically every Android phone of the last ~10 years (older releases up to 0.3.0 also have a larger `universal` APK).
 2. Open the file and allow "install unknown apps" for your browser or file manager when Android asks.
 3. Check the file against `SHA256SUMS.txt` from the same release if you want to verify it.
 4. Open **Anime Sortirka** and allow access to **all photos** (not "selected photos only"). The first scan of ~10,000 images takes about a minute.
